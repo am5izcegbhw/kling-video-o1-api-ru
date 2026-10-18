@@ -1,0 +1,15 @@
+{
+  "id": "kling-video-o1",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-18T01:54:06Z",
+  "prices": {
+    "default": {
+      "list": 0.084,
+      "effective": 0.0672
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.0672 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/kling-video-o1"
+}
